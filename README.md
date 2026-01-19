@@ -78,5 +78,3 @@ Because the output is valid JSON, it can be sent directly to Power Automate for 
 
 - Click **X** to remove a selected file from the list
 - Click the **pencil icon** to rename a file (extension is preserved automatically)# CanvasJsonDragDropFileUploader
-# CanvasJsonDragDropFileUploader
-# CanvasJsonDragDropFileUploader
